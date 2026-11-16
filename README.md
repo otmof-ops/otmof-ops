@@ -1,8 +1,8 @@
 <a name="top"></a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:431407,70:c2410c,100:f97316&height=250&section=header&text=OTMOF-OPS&fontSize=84&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=nothing%20real%20happens%20unless%20you%20burn&descSize=21&descAlignY=60&descAlign=50">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fff7ed,40:fdba74,75:f97316,100:c2410c&height=250&section=header&text=OTMOF-OPS&fontSize=84&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=nothing%20real%20happens%20unless%20you%20burn&descSize=21&descAlignY=60&descAlign=50">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:431407,70:c2410c,100:f97316&height=250&section=header&text=OTMOF-OPS&fontSize=84&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=nothing%20real%20happens%20unless%20you%20burn&descSize=21&descAlignY=60&descAlign=50" alt="OTMOF-OPS: nothing real happens unless you burn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C35:431407%2C70:c2410c%2C100:f97316&height=250&section=header&text=OTMOF-OPS&fontSize=84&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=nothing%20real%20happens%20unless%20you%20burn&descSize=21&descAlignY=60&descAlign=50">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fff7ed%2C40:fdba74%2C75:f97316%2C100:c2410c&height=250&section=header&text=OTMOF-OPS&fontSize=84&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=nothing%20real%20happens%20unless%20you%20burn&descSize=21&descAlignY=60&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C35:431407%2C70:c2410c%2C100:f97316&height=250&section=header&text=OTMOF-OPS&fontSize=84&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=nothing%20real%20happens%20unless%20you%20burn&descSize=21&descAlignY=60&descAlign=50" alt="OTMOF-OPS: nothing real happens unless you burn" width="100%">
 </picture>
 
 <p align="center">
@@ -291,7 +291,7 @@ Lua and LuaJIT are faster still: a stage b program takes 1.97 times Lua 5.4's ti
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,30:c2410c,65:431407,100:0d1117&height=130&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c2410c,45:f97316,100:fdba74&height=130&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,30:c2410c,65:431407,100:0d1117&height=130&section=footer" alt="" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f97316%2C30:c2410c%2C65:431407%2C100:0d1117&height=130&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c2410c%2C45:f97316%2C100:fdba74&height=130&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316%2C30:c2410c%2C65:431407%2C100:0d1117&height=130&section=footer" alt="" width="100%">
 </picture>
