@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="250" viewBox="0 0 350 250" role="img" aria-label="languages in public repositories">
+
+<title>languages in public repositories</title>
+<defs>
+  <linearGradient id="ember" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#431407"/><stop offset="0.55" stop-color="#c2410c"/><stop offset="1" stop-color="#f97316"/>
+  </linearGradient>
+  <clipPath id="shape"><rect x="0.5" y="0.5" width="349" height="249" rx="10"/></clipPath>
+  <style>
+    .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #f97316; }
+    .l { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c9d1d9; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #fdba74; }
+    .s { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #8b949e; }
+    .d { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c9d1d9; }
+    .row { animation: in 0.5s ease-out backwards; }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 1.2s ease-out 0.2s backwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-6px); } }
+    @keyframes spin { from { opacity: 0; transform: rotate(-60deg); } }
+    @media (prefers-reduced-motion: reduce) { .row, .spin { animation: none; } }
+  </style>
+</defs>
+<rect x="0.5" y="0.5" width="349" height="249" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="0" y="0" width="350" height="4" fill="url(#ember)" clip-path="url(#shape)"/>
+<text x="25" y="38" class="t">Languages</text>
+<circle cx="92" cy="157.0" r="56" fill="none" stroke="#21262d" stroke-width="20"/>
+<circle cx="92" cy="157.0" r="56" fill="none" stroke="#dea584" stroke-width="20" stroke-dasharray="257.94 351.86" stroke-dashoffset="-0.00" transform="rotate(-90 92 157.0)"/>
+<circle cx="92" cy="157.0" r="56" fill="none" stroke="#3572A5" stroke-width="20" stroke-dasharray="67.39 351.86" stroke-dashoffset="-259.44" transform="rotate(-90 92 157.0)"/>
+<circle cx="92" cy="157.0" r="56" fill="none" stroke="#89e051" stroke-width="20" stroke-dasharray="19.60 351.86" stroke-dashoffset="-328.33" transform="rotate(-90 92 157.0)"/>
+<circle cx="92" cy="157.0" r="56" fill="none" stroke="#8b949e" stroke-width="20" stroke-dasharray="2.42 351.86" stroke-dashoffset="-349.43" transform="rotate(-90 92 157.0)"/>
+<text x="92" y="159.0" class="v" text-anchor="middle" style="font-size: 18px">73.7%</text>
+<text x="92" y="176.0" class="s" text-anchor="middle">Rust</text>
+<g class="row" style="animation-delay: 150ms"><circle cx="190" cy="111.0" r="5" fill="#dea584"/><text x="203" y="115.0" class="l">Rust</text><text x="328" y="115.0" class="s" text-anchor="end">73.7%</text></g>
+<g class="row" style="animation-delay: 240ms"><circle cx="190" cy="139.0" r="5" fill="#3572A5"/><text x="203" y="143.0" class="l">Python</text><text x="328" y="143.0" class="s" text-anchor="end">19.6%</text></g>
+<g class="row" style="animation-delay: 330ms"><circle cx="190" cy="167.0" r="5" fill="#89e051"/><text x="203" y="171.0" class="l">Shell</text><text x="328" y="171.0" class="s" text-anchor="end">6.0%</text></g>
+<g class="row" style="animation-delay: 420ms"><circle cx="190" cy="195.0" r="5" fill="#8b949e"/><text x="203" y="199.0" class="l">Other</text><text x="328" y="199.0" class="s" text-anchor="end">0.7%</text></g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="256" viewBox="0 0 495 256" role="img" aria-label="latest releases">
+<!-- Icons: Primer Octicons, MIT License, Copyright (c) 2026 GitHub Inc. -->
+<title>latest releases</title>
+<defs>
+  <linearGradient id="ember" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#431407"/><stop offset="0.55" stop-color="#c2410c"/><stop offset="1" stop-color="#f97316"/>
+  </linearGradient>
+  <clipPath id="shape"><rect x="0.5" y="0.5" width="494" height="255" rx="10"/></clipPath>
+  <style>
+    .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #f97316; }
+    .l { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c9d1d9; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #fdba74; }
+    .s { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #8b949e; }
+    .d { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c9d1d9; }
+    .row { animation: in 0.5s ease-out backwards; }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 1.2s ease-out 0.2s backwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-6px); } }
+    @keyframes spin { from { opacity: 0; transform: rotate(-60deg); } }
+    @media (prefers-reduced-motion: reduce) { .row, .spin { animation: none; } }
+  </style>
+</defs>
+<rect x="0.5" y="0.5" width="494" height="255" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="0" y="0" width="495" height="4" fill="url(#ember)" clip-path="url(#shape)"/>
+<text x="25" y="38" class="t">Latest releases</text>
+<g class="row" style="animation-delay: 150ms"><path transform="translate(25 55) scale(0.875)" fill="#c2410c" d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/><text x="47" y="68" class="l">cig-compile</text><text x="320" y="68" class="v" text-anchor="end">v0.5.0</text><text x="470" y="68" class="s" text-anchor="end">15 Nov 2026</text></g>
+<g class="row" style="animation-delay: 250ms"><path transform="translate(25 81) scale(0.875)" fill="#c2410c" d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/><text x="47" y="94" class="l">cig-script</text><text x="320" y="94" class="v" text-anchor="end">v1.24.0</text><text x="470" y="94" class="s" text-anchor="end">14 Nov 2026</text></g>
+<g class="row" style="animation-delay: 350ms"><path transform="translate(25 107) scale(0.875)" fill="#c2410c" d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/><text x="47" y="120" class="l">cig-script</text><text x="320" y="120" class="v" text-anchor="end">v1.23.0</text><text x="470" y="120" class="s" text-anchor="end">14 Nov 2026</text></g>
+<g class="row" style="animation-delay: 450ms"><path transform="translate(25 133) scale(0.875)" fill="#c2410c" d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/><text x="47" y="146" class="l">cig-script</text><text x="320" y="146" class="v" text-anchor="end">v1.22.0</text><text x="470" y="146" class="s" text-anchor="end">14 Nov 2026</text></g>
+<g class="row" style="animation-delay: 550ms"><path transform="translate(25 159) scale(0.875)" fill="#c2410c" d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/><text x="47" y="172" class="l">cig-compile</text><text x="320" y="172" class="v" text-anchor="end">v0.4.0</text><text x="470" y="172" class="s" text-anchor="end">12 Nov 2026</text></g>
+<g class="row" style="animation-delay: 650ms"><path transform="translate(25 185) scale(0.875)" fill="#c2410c" d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/><text x="47" y="198" class="l">cig-script</text><text x="320" y="198" class="v" text-anchor="end">v1.21.0</text><text x="470" y="198" class="s" text-anchor="end">12 Nov 2026</text></g>
+<g class="row" style="animation-delay: 750ms"><path transform="translate(25 211) scale(0.875)" fill="#c2410c" d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"/><text x="47" y="224" class="l">cig-installer</text><text x="320" y="224" class="v" text-anchor="end">v0.1.0</text><text x="470" y="224" class="s" text-anchor="end">12 Nov 2026</text></g>
+</svg>

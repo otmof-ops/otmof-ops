@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="250" viewBox="0 0 495 250" role="img" aria-label="otmof-ops's GitHub stats">
+<!-- Icons: Primer Octicons, MIT License, Copyright (c) 2026 GitHub Inc. -->
+<title>otmof-ops's GitHub stats</title>
+<defs>
+  <linearGradient id="ember" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fed7aa"/><stop offset="0.55" stop-color="#ea580c"/><stop offset="1" stop-color="#c2410c"/>
+  </linearGradient>
+  <clipPath id="shape"><rect x="0.5" y="0.5" width="494" height="249" rx="10"/></clipPath>
+  <style>
+    .t { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #c2410c; }
+    .l { font: 400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #1f2328; }
+    .v { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #9a3412; }
+    .s { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #59636e; }
+    .d { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #1f2328; }
+    .row { animation: in 0.5s ease-out backwards; }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 1.2s ease-out 0.2s backwards; }
+    @keyframes in { from { opacity: 0; transform: translateX(-6px); } }
+    @keyframes spin { from { opacity: 0; transform: rotate(-60deg); } }
+    @media (prefers-reduced-motion: reduce) { .row, .spin { animation: none; } }
+  </style>
+</defs>
+<rect x="0.5" y="0.5" width="494" height="249" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<rect x="0" y="0" width="495" height="4" fill="url(#ember)" clip-path="url(#shape)"/>
+<text x="25" y="38" class="t">otmof-ops · burning since day one</text>
+<g class="row" style="animation-delay: 150ms"><path transform="translate(25 55) scale(0.875)" fill="#ea580c" d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.56 1.425-3.286.376-.308.862 0 1.035.454C4.46 8.487 5.581 8.419 6 8c.282-.282.341-.811-.003-1.5C4.34 3.187 7.035.75 8.77.146c.39-.137.726.194.763.607ZM7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 0 1-1.436-.874A3.198 3.198 0 0 0 3 10c0 2.53 2.164 4.5 4.998 4.5Z"/><text x="47" y="68" class="l">Own public repositories</text><text x="300" y="68" class="v" text-anchor="end">12</text></g>
+<g class="row" style="animation-delay: 260ms"><path transform="translate(25 79) scale(0.875)" fill="#ea580c" d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.56 1.425-3.286.376-.308.862 0 1.035.454C4.46 8.487 5.581 8.419 6 8c.282-.282.341-.811-.003-1.5C4.34 3.187 7.035.75 8.77.146c.39-.137.726.194.763.607ZM7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 0 1-1.436-.874A3.198 3.198 0 0 0 3 10c0 2.53 2.164 4.5 4.998 4.5Z"/><text x="47" y="92" class="l">Stars on them</text><text x="300" y="92" class="v" text-anchor="end">6</text></g>
+<g class="row" style="animation-delay: 370ms"><path transform="translate(25 103) scale(0.875)" fill="#ea580c" d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.56 1.425-3.286.376-.308.862 0 1.035.454C4.46 8.487 5.581 8.419 6 8c.282-.282.341-.811-.003-1.5C4.34 3.187 7.035.75 8.77.146c.39-.137.726.194.763.607ZM7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 0 1-1.436-.874A3.198 3.198 0 0 0 3 10c0 2.53 2.164 4.5 4.998 4.5Z"/><text x="47" y="116" class="l">Releases</text><text x="300" y="116" class="v" text-anchor="end">39</text></g>
+<g class="row" style="animation-delay: 480ms"><path transform="translate(25 127) scale(0.875)" fill="#ea580c" d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.56 1.425-3.286.376-.308.862 0 1.035.454C4.46 8.487 5.581 8.419 6 8c.282-.282.341-.811-.003-1.5C4.34 3.187 7.035.75 8.77.146c.39-.137.726.194.763.607ZM7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 0 1-1.436-.874A3.198 3.198 0 0 0 3 10c0 2.53 2.164 4.5 4.998 4.5Z"/><text x="47" y="140" class="l">Commits (12 months)</text><text x="300" y="140" class="v" text-anchor="end">509</text></g>
+<g class="row" style="animation-delay: 590ms"><path transform="translate(25 151) scale(0.875)" fill="#9a3412" d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.56 1.425-3.286.376-.308.862 0 1.035.454C4.46 8.487 5.581 8.419 6 8c.282-.282.341-.811-.003-1.5C4.34 3.187 7.035.75 8.77.146c.39-.137.726.194.763.607ZM7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 0 1-1.436-.874A3.198 3.198 0 0 0 3 10c0 2.53 2.164 4.5 4.998 4.5Z"/><text x="47" y="164" class="l">Pull requests (12 months)</text><text x="300" y="164" class="v" text-anchor="end">426</text></g>
+<g class="row" style="animation-delay: 700ms"><path transform="translate(25 175) scale(0.875)" fill="#d97706" d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.56 1.425-3.286.376-.308.862 0 1.035.454C4.46 8.487 5.581 8.419 6 8c.282-.282.341-.811-.003-1.5C4.34 3.187 7.035.75 8.77.146c.39-.137.726.194.763.607ZM7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 0 1-1.436-.874A3.198 3.198 0 0 0 3 10c0 2.53 2.164 4.5 4.998 4.5Z"/><text x="47" y="188" class="l">Issues opened (12 months)</text><text x="300" y="188" class="v" text-anchor="end">252</text></g>
+<g class="row" style="animation-delay: 810ms"><path transform="translate(25 199) scale(0.875)" fill="#ea580c" d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.56 1.425-3.286.376-.308.862 0 1.035.454C4.46 8.487 5.581 8.419 6 8c.282-.282.341-.811-.003-1.5C4.34 3.187 7.035.75 8.77.146c.39-.137.726.194.763.607ZM7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 0 1-1.436-.874A3.198 3.198 0 0 0 3 10c0 2.53 2.164 4.5 4.998 4.5Z"/><text x="47" y="212" class="l">Followers</text><text x="300" y="212" class="v" text-anchor="end">3</text></g>
+<text x="25" y="238" class="s">public repositories only, updated 21 Nov 2026</text>
+<g class="spin">
+<circle cx="400" cy="118" r="56" fill="none" stroke="#eaeef2" stroke-width="10"/>
+<circle cx="400" cy="118" r="56" fill="none" stroke="#ea580c" stroke-width="10" stroke-dasharray="149.38 351.86" stroke-dashoffset="-0.00" transform="rotate(-90 400 118)"/>
+<circle cx="400" cy="118" r="56" fill="none" stroke="#9a3412" stroke-width="10" stroke-dasharray="124.78 351.86" stroke-dashoffset="-150.88" transform="rotate(-90 400 118)"/>
+<circle cx="400" cy="118" r="56" fill="none" stroke="#d97706" stroke-width="10" stroke-dasharray="73.20 351.86" stroke-dashoffset="-277.16" transform="rotate(-90 400 118)"/>
+</g>
+<text x="400" y="120" class="v" text-anchor="middle" style="font-size: 24px">1,187</text>
+<text x="400" y="139" class="s" text-anchor="middle">contributions</text>
+<text x="400" y="200" class="s" text-anchor="middle">public, last 12 months</text>
+</svg>
